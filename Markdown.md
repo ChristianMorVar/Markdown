@@ -25,8 +25,22 @@ Crear bloques
 \~\~\~
 
 ~~~
-Crear bloques
+Crear bloques (muy usado para código)
 ~~~
+
+***
+
+```
+También se puede hacer de esta manera
+```
+
+***
+
+Para resaltar código sin meterlo en un bloque
+
+***
+
+Ej: Para los bucles en python usamos `for`
 
 ***
 
@@ -53,6 +67,31 @@ Crear bloques
 ***
 
 \\ \` \* \_  \{\} \[\] \(\) \# \+ \- \. \! \: \| --> \ Sirve para escapar el caracter.
+
+***
+
+Para crear listas de tareas
+
+***
+
+- [x] Lista de tareas
+- [ ] Incompleto
+- [ ] Incompleto
+- [ ] Incompleto
+- [x] Completo
+- [ ] Incompleto
+
+***
+
+\|Para tablas\|Y otra tabla\|Y otra\|
+\-------------\------------\--------\
+
+***
+
+Prueba de tabla | Segundo | Tercero
+----------------|---------|--------
+contenido de prueba | prueba 2 | prueba de celda
+contenido de prueba |  | celda vacia
 
 ***
 
