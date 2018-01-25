@@ -30,10 +30,10 @@ Crear bloques (muy usado para código)
 
 ***
 
-\`\`\`
+\`\`\`  
 También se puede hacer de esta manera
-\`\`\`
-
+\`\`\`  
+  
 ```
 Bloque
 ```
