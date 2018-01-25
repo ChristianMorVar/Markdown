@@ -85,7 +85,6 @@ Para crear listas de tareas
 
 \|Para tablas\|Y otra tabla\|Y otra\|  
 
-
 -------------\|------------\|--------  
 contenido		contenido	  contenido
 
@@ -95,6 +94,10 @@ Prueba de tabla | Segundo | Tercero
 ----------------|---------|--------
 contenido de prueba | prueba 2 | prueba de celda
 contenido de prueba |  | celda vacia
+
+***
+
+Para un salto de línea, **doble espacio**.
 
 ***
 
