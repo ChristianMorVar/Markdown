@@ -30,15 +30,17 @@ Crear bloques (muy usado para código)
 
 ***
 
-```
+\`\`\`
 También se puede hacer de esta manera
+\`\`\`
+
+```
+Bloque
 ```
 
 ***
 
 Para resaltar código sin meterlo en un bloque
-
-***
 
 Ej: Para los bucles en python usamos `for`
 
@@ -88,7 +90,6 @@ Para crear listas de tareas
 -------------\|------------\|--------  
 contenido		contenido	  contenido
 
-***
 
 Prueba de tabla | Segundo | Tercero
 ----------------|---------|--------
