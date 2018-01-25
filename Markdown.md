@@ -86,7 +86,7 @@ Para crear listas de tareas
 \|Para tablas\|Y otra tabla\|Y otra\|  
 
 
--------------\|------------\|--------
+-------------\|------------\|--------  
 contenido		contenido	  contenido
 
 ***
